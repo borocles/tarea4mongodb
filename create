@@ -1,2 +1,2 @@
 use bigdata;
-db.createCollection("products");
+db.createCollection("fabian");
