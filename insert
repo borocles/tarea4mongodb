@@ -1,0 +1,63 @@
+db.products.insertMany([
+  {
+    "producto_id": "SKU-501",
+    "nombre": "Teclado Mecánico K9",
+    "categoria": "Accesorios",
+    "precio_usd": 89.99,
+    "stock_cantidad": 320,
+    "review_count": 120,
+    "avg_rating": 4.4,
+    "marca": "KeyTech",
+    "pais_origen": "Taiwán",
+    "garantia_meses": 12
+  },
+  {
+    "producto_id": "SKU-502",
+    "nombre": "Mouse Inalámbrico Pro M5",
+    "categoria": "Accesorios",
+    "precio_usd": 49.99,
+    "stock_cantidad": 500,
+    "review_count": 210,
+    "avg_rating": 4.6,
+    "marca": "TechCorp",
+    "pais_origen": "China",
+    "garantia_meses": 12
+  },
+  {
+    "producto_id": "SKU-503",
+    "nombre": "Smartwatch FitX 3",
+    "categoria": "Wearables",
+    "precio_usd": 129.99,
+    "stock_cantidad": 260,
+    "review_count": 98,
+    "avg_rating": 4.2,
+    "marca": "SmartLife",
+    "pais_origen": "Vietnam",
+    "garantia_meses": 24
+  },
+  {
+    "producto_id": "SKU-504",
+    "nombre": "Audífonos Noise Cancel Pro",
+    "categoria": "Audio",
+    "precio_usd": 199.99,
+    "stock_cantidad": 140,
+    "review_count": 460,
+    "avg_rating": 4.7,
+    "marca": "SoundWave",
+    "pais_origen": "Japón",
+    "garantia_meses": 18
+  },
+  {
+    "producto_id": "SKU-505",
+    "nombre": "Monitor UltraWide 34'' ZR",
+    "categoria": "Monitores",
+    "precio_usd": 599.99,
+    "stock_cantidad": 75,
+    "review_count": 180,
+    "avg_rating": 4.5,
+    "marca": "VisionTech",
+    "pais_origen": "Corea del Sur",
+    "garantia_meses": 24
+  }
+  // … repito el bloque para llegar a 20 si deseas
+])
