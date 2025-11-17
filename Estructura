@@ -1,0 +1,13 @@
+{
+  "_id": ObjectId(),
+  "producto_id": "SKU-001",
+  "nombre": "Laptop Gaming X1",
+  "categoria": "Electrónica",
+  "precio_usd": 1299.99,
+  "stock_cantidad": 150,
+  "review_count": 250,
+  "avg_rating": 4.5,
+  "marca": "TechCorp",
+  "pais_origen": "China",
+  "garantia_meses": 24
+}
