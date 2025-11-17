@@ -1,1 +1,1 @@
-db.products.deleteOne({ producto_id: "SKU-502" });
+db.fabian.deleteOne({ producto_id: "SKU-502" });
