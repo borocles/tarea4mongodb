@@ -1,4 +1,4 @@
-db.products.insertOne({
+db.fabian.insertOne({
   producto_id: "SKU-600",
   nombre: "Laptop Ultrabook Z5",
   categoria: "Electrónica",
