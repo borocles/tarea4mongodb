@@ -1,4 +1,4 @@
-db.products.insertMany([
+db.fabian.insertMany([
   {
     "producto_id": "SKU-501",
     "nombre": "Teclado Mecánico K9",
