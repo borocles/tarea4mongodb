@@ -1,1 +1,1 @@
-db.products.find({ categoria: "Electrónica" }).limit(10);
+db.fabian.find({ categoria: "Electrónica" }).limit(10);
