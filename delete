@@ -1,0 +1,1 @@
+db.products.deleteOne({ producto_id: "SKU-502" });
