@@ -59,5 +59,4 @@ db.fabian.insertMany([
     "pais_origen_garantia": "Corea del Sur",
     "garantia_meses": 24
   }
-  // … repito el bloque para llegar a 20 si deseas
-])
+  ])
